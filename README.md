@@ -2,6 +2,7 @@
 <h1 align="center">Hello 👋 I'm Rita Bastos</h1>
 <h3 align="center">Data Science | Physiotherapist</h3>
 - ✨ About me :✨
+
 For the past 4 years, I've deeply enjoyed my work as a physiotherapist, witnessing the incredible impact it has on people's lives and helping them achieve their best results. Last year, during my master's degree, I discovered the significance of data in our daily lives. This realization motivated me to challenge myself and complete a intensive 400-hour Le Wagon Data Science bootcamp. 
 Through this program, I learned a lot about programming, data analysis, machine learning, and pratical project applications. 🚀 
 Equipped with a strong foundation in empathy, excellent communication, and problem-solving skills, I'm now eager to transition into full-time roles in Data Science. I'm open to both collaborative projects and personal growth opportunities.
